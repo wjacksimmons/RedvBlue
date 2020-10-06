@@ -4,6 +4,8 @@
 Overview
 In Red vs Blue, a Kibana stacked web server was attacked using various penetration testing methods. Upon gaining access to the server, a flag was discovered. After this, a Kibana stack was used to find baselines and traces for the attack. 
 
+Below is a summary of the attack.
+
 
 Attack Summary
 * Run nmap scan on the network to find host and open ports
